@@ -1,0 +1,3 @@
+name: A workflow for my Hello Action project
+on: push
+
